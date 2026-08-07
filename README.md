@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## ⚜ About Me
 
 Hi, I'm Abdul Hakeem 👋🇱🇰. A tech enthusiast from Sri Lanka, working at the intersection of web development and offensive security. I build the systems — then I break them, so they come back stronger. From full-stack web applications to remote system management tools, I don't just write code — I engineer solutions for real problems. Beyond development, I'm constantly sharpening my skills in penetration testing, red teaming, and reverse engineering, always looking for the next vulnerability before someone else does. Driven by curiosity, I explore the edges of automation and AI to shape a smarter, more secure digital world. 🌐 Building: Full-stack apps & remote system tools. 🔐 Exploring: Red Teaming, Pen testing, Reverse Engineering. ⚙️ Interested in: Automation & AI for security. 📍 Based in: Sri Lanka.
 
