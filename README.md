@@ -18,7 +18,6 @@ Hi, I'm Abdul Hakeem 👋🇱🇰. A tech enthusiast from Sri Lanka, working at 
 |------|---------|
 | 🌐 Web Development | Full-stack, user-centric applications |
 | 🔐 Offensive Security | Penetration testing, Red Teaming |
-| 🕵️ Reverse Engineering | System analysis & exploitation research |
 | ⚙️ Automation & AI | Smarter, secure digital solutions |
 
 
