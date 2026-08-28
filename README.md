@@ -31,16 +31,17 @@ I am Abdul Hakeem, a developer from Sri Lanka working where product engineering 
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,react,vue,html,css,mysql,sqlite,git,github,vscode&perline=8" alt="JavaScript, TypeScript, Python, Java, C++, C#, PHP, React, Vue, HTML, CSS, MySQL, SQLite, Git, GitHub, and VS Code" />
 </p>
 
-## GitHub Activity
+## GitHub Activity & Trophies
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulhakeem1029&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=374151&bg_color=ffffff" alt="Abdul Hakeem's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhakeem1029&layout=compact&hide_border=true&title_color=0f766e&text_color=374151&bg_color=ffffff" alt="Abdul Hakeem's top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdulhakeem1029&hide_border=true&ring=0f766e&fire=f97316&currStreakLabel=0f766e" alt="Abdul Hakeem's GitHub contribution streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/abdulhakeem1029">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhakeem1029&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="abdulhakeem1029's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=abdulhakeem1029&theme=radical&hide_border=true&cache_seconds=86400" alt="abdulhakeem1029's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhakeem1029&theme=radical&radius=10" alt="abdulhakeem1029's Activity Graph" />
+</p>
 
 ## Let’s Connect
 
