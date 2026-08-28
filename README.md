@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,100:0f766e&text=ABDUL%20HAKEEM&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20SECURITY%20ENTHUSIAST&descSize=16&descColor=CCFBF1&descAlignY=68" width="100%" alt="Abdul Hakeem - developer and security enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,100:0f766e&text=ABDUL%20HAKEEM&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=DEVELOPER%20%7C%20SECURITY%20ENTHUSIAST&descSize=16&descColor=CCFBF1&descAlignY=68" width="100%" alt="Abdul Hakeem - developer and security enthusiast" />
 
 ### Building useful systems. Testing them until they are stronger.
 
@@ -10,9 +10,9 @@
 
 ## About
 
-I am Abdul Hakeem, a developer from Sri Lanka working where product engineering meets offensive security. I build full-stack applications, automation, and remote-management tools, then study how they can be made more resilient.
+I am Abdul Hakeem, a developer from Sri Lanka working where product engineering meets offensive security. I build web applications, automation, and remote-management tools, then study how they can be made more resilient.
 
-- 🌐 Building: full-stack web applications and developer tools
+- 🌐 Building: web applications and developer tools
 - 🔐 Exploring: penetration testing, red teaming, and reverse engineering
 - ⚙️ Learning: automation, AI, and secure system design
 - 📍 Based in: Sri Lanka
