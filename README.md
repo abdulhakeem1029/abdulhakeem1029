@@ -83,11 +83,3 @@ I am Abdul Hakeem, a developer from Sri Lanka working where product engineering 
 <p align="center">
   <a href="https://github.com/abdulhakeem1029">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulhakeem1029&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=abdulhakeem1029)
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribute>
